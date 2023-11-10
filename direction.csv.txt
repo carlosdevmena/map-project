@@ -1,0 +1,4 @@
+"nombre,lat,lon"
+"Barrio A,10.5,-74.0"
+"Barrio B,10.6,-73.9"
+"Barrio C,10.7,-73.8"
